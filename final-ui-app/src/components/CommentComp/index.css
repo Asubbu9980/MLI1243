@@ -1,0 +1,17 @@
+.profile-img{
+    height:60px;
+    width:60px;
+    border-radius:60px;
+    margin-right:15px;
+}
+
+.comment{
+    color:black;
+}
+
+.comment-card{
+    padding:10px;
+    box-shadow:3px 3px gainsboro;
+    
+    
+}

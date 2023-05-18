@@ -1,0 +1,39 @@
+.img{
+    height:60vh;
+    border-radius: 3px;
+    width:50vw;
+    box-shadow:2px 2px grey;
+}
+
+img:hover{
+    opacity:0.5;
+}
+
+
+.comments-container{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+
+.leave-comment-container{
+    /* margin-top:40px; */
+    box-shadow:2px 2px gainsboro;
+    
+}
+
+.like-btns-container{
+    border-radius: 6px;
+    /* border-style:solid; */
+  max-width:250px;
+    padding:10px;
+    box-shadow:2px 2px gainsboro;
+    
+    background-color:transparent;
+}
+
+
+.like-or-dislike-btn{
+    background-color:transparent;
+    border-style:none;
+}

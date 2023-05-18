@@ -1,0 +1,19 @@
+.post-btn{
+    border-style:solid;
+    border-radius:5px;
+    border-color:brown;
+    background-color:brown;
+    padding:3px;
+    color:white;
+    padding:3px;
+    font-weight:600;
+}
+
+.post-btn:hover{
+    background-color:brown;
+}
+
+.card{
+    box-shadow:2px 2px grey;
+    padding:10px;
+}

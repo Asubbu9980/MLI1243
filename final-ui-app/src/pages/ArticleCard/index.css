@@ -1,0 +1,47 @@
+.card{
+    border-style:none !important;
+   
+    border-width:0px;
+     animation-duration: 1s;
+   /*  animation-iteration-count: infinite;
+    transform-origin: bottom; */
+
+}
+
+.card img:hover{
+    opacity:0.5;
+    
+}
+
+.card-img{
+    height:230px;
+}
+
+.bounce:hover {
+    animation-name: bounce;
+    animation-timing-function: ease;
+}
+
+@keyframes bounce {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-5px); }
+    100% { transform: translateY(0); }
+  }
+
+.readmore-btn{
+    border-style:1px solid brown;
+    border-radius:5px;
+    padding:3px;
+    /* color:brown; */
+
+    background-color:brown;
+   color:white;
+   
+
+}
+
+/* .readmore-btn:hover{
+   background-color:brown;
+   color:white;
+
+} */

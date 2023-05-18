@@ -1,0 +1,14 @@
+.car-item{
+     
+      background-image:url("https://img.freepik.com/free-photo/wooden-desk-concept-with-space-laptop_23-2147731382.jpg?w=996&t=st=1684391124~exp=1684391724~hmac=77c4351facb1d17838332d7f02e152ae903540741f8a36368c37ceca13bf1a0e");
+      background-size:cover;
+      height:70vh;
+      color:black;
+      font-size:100px;
+     
+}
+
+.home-banner-page{
+    background-image:usl("https://img.freepik.com/free-photo/wooden-desk-concept-with-space-laptop_23-2147731382.jpg?w=996&t=st=1684391124~exp=1684391724~hmac=77c4351facb1d17838332d7f02e152ae903540741f8a36368c37ceca13bf1a0e");
+    
+}
